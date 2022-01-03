@@ -1,0 +1,27 @@
+body{
+    background-color: azure;
+}
+.blog-1{
+    background-color: rgb(1, 247, 255);
+    padding: 10px 20px;
+    
+}
+.blog-2{
+    background-color: rgb(117, 78, 207);
+    padding: 10px 20px;
+    
+}
+.blog-3{
+    background-color: rgb(1, 255, 179);
+    padding: 10px 20px;
+    
+}
+.blog-writer{
+    color: rgb(241, 61, 15);
+}
+.blog-1 .ami{
+    color:blue;
+}
+.ami{
+    margin: 100px 100px;
+}
